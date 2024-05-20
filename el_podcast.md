@@ -12,7 +12,7 @@ Es un podcast dirigido al ambiente educativo y las personas que se denvuelven en
 Utilize el siguiente prompt en chatgpt para crear el roteiro: Después con Evenlabs monte la voz y para edición use Descript.
 
 ## 🚀 Resultados
-
+[EL_PODCAST](./podcast/El_Podcast.mp3)
 
 ## 💭 Reflexão (Opcional)
 Me parece una buena forma de practiar el uso de IA's..
